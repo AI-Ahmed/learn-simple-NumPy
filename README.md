@@ -8,5 +8,5 @@ This repository created to help the developers who want to engage in #Data-scien
 
 A simple repository that helps you to understand the general tools of NumPy that you will need to enter the world of data science and data analysis. 
 
-This repository is about [#jupyter-notebook](https://jupyter.org/) files: each one of them includes a topic about pandas and what does each tool do.
+This repository is about [#jupyter-notebook](https://jupyter.org/) files: each one of them includes a topic about numpy and what does each tool do.
 
